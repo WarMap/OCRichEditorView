@@ -64,3 +64,6 @@ iOSInjectionProject/
 
 #yin cang wen jian 
 .DS_Store
+*／.DS_Store
+._.DS_Store
+*／._.DS_Store
